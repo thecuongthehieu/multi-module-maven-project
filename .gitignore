@@ -1,0 +1,5 @@
+# .idea directory
+.idea
+
+# target directory of maven build
+target
